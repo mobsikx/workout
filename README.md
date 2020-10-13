@@ -9,7 +9,7 @@
 | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | *-* | [UpperBody](https://github.com/mobsikx/workout/blob/coronavirus/Strength-UpperBody.md) | *-* | [UpperBody](https://github.com/mobsikx/workout/blob/coronavirus/Strength-UpperBody.md) | *-* | *REST mode* | *REST mode* |
-| *-* | BJJ @ home (1.5 h) | *-* | BJJ @ home (1.5 h) | *-* | *REST mode* | *REST mode* |
+| *-* | BJJ @ home (warmup; stretching; techniques; 45 - 75 min) | *-* | BJJ @ home (warmup; stretching; techniques; 45 - 75 min) | *-* | *REST mode* | *REST mode* |
 
 # Strength workout programs
 * [UpperBody](https://github.com/mobsikx/workout/blob/coronavirus/Strength-UpperBody.md)
