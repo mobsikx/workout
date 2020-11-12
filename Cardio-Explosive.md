@@ -1,4 +1,4 @@
-# Cardio training - Explosive (during spring/summer)
+# Cardio training - Explosive
 ## 1st block (1 min. each round, 10 sec. rest)
 * training bike lvl. 16
 * throwing medine ball
