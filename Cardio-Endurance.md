@@ -1,4 +1,4 @@
-# Cardio training - Endurance (during spring/summer)
+# Cardio training - Endurance
 ## 1st block (lvl. 11, 130 - 160 bpm)
 * 30 min.
 
