@@ -1,4 +1,8 @@
-## Shoulders, biceps, forearm
+# Shoulders, biceps, forearm
+## After injury
+* SKIP
+
+## Normal
 * Lateral raise (5x12, 10 kg)
 * Bent over reverse [https://www.youtube.com/watch?v=QvKvJXyvato 03:00] (5x12, 10 kg)
 * Reverse dumbbell fly [https://www.youtube.com/watch?v=QvKvJXyvato 05:00] (5x12, 10 kg)
