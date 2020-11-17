@@ -10,6 +10,7 @@
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | *-* | [UpperBody](https://github.com/mobsikx/workout/blob/coronavirus/Strength-UpperBody.md) | *-* | [UpperBody](https://github.com/mobsikx/workout/blob/coronavirus/Strength-UpperBody.md) | *-* | *REST mode* | *REST mode* |
 | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | BJJ @ home (warmup; stretching; drills; 45 - 75 min) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | BJJ @ home (warmup; stretching; drills; 45 - 75 min) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | *REST mode* | *REST mode* |
+| *-* | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | *-* | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | *-* | *REST mode* | *REST mode* |
 
 # Strength workout programs
 * [UpperBody](https://github.com/mobsikx/workout/blob/coronavirus/Strength-UpperBody.md)
@@ -23,6 +24,7 @@
 * [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md)
 * [Cardio - Explosive](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md)
 * [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md)
+* [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md)
 
 # Measurements
 * [Monthly](https://onedrive.live.com/edit.aspx?resid=201A2B187B4F6840!127&app=Excel&wdnd=1&wdPreviousSession=d4c29844%2D4119%2D400d%2Da5bd%2D41ce04693cb3)
