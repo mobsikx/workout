@@ -1,4 +1,4 @@
-# Core training (4 rounds, 15 - 30 s each exercise, 3 min. rest)
+# Core training (3 - 4 rounds, 15 - 30 s each exercise, 3 min. rest)
 * #### hollow hold
   do ucka, ruce nahoru, nohy nahoru, spodni zada se dotykaji zeme, drzet pevne bricho
 * #### v-sit
