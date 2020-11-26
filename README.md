@@ -8,12 +8,11 @@
 | Static stretching | 2x [Cardio - Explosive](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md) | Static stretching | [Cardio - Explosive](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md) | Static stretching | *REST mode* | [Cardio - Explosive](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md) |
 | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *REST mode* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
-| *-* | [UpperBody](https://github.com/mobsikx/workout/blob/coronavirus/Strength-UpperBody.md) | *-* | [UpperBody](https://github.com/mobsikx/workout/blob/coronavirus/Strength-UpperBody.md) | *-* | *REST mode* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) |
+| *-* | *-* | *-* | *-* | *-* | *REST mode* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) |
 | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | BJJ @ home (warmup; stretching; drills; 45 - 75 min) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | BJJ @ home (warmup; stretching; drills; 45 - 75 min) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | *REST mode* | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) |
 | *-* | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | *-* | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | *-* | *REST mode* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) |
 
 # Strength workout programs
-* [UpperBody](https://github.com/mobsikx/workout/blob/coronavirus/Strength-UpperBody.md)
 * [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/Strength-FullBody.md)
 
 # Core workout programs
