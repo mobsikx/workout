@@ -19,7 +19,6 @@
 * [CORE](https://github.com/mobsikx/workout/blob/coronavirus/Core.md)
 
 # Cardio workout programs
-## Active
 * [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md)
 * [Cardio - Explosive](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md)
 * [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md)
