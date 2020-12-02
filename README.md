@@ -8,8 +8,8 @@
 | Static stretching | 2x [Cardio - Explosive](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md) | Static stretching | *-* | Static stretching | *REST mode* | *REST mode* |
 | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
-| *-* | *-* | *-* | *-* | *-* | *REST mode* | *REST mode* |
-| [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | BJJ @ home (warmup; stretching; drills; 45 - 75 min) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | [CORE](https://github.com/mobsikx/workout/blob/coronavirus/Core.md) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | *REST mode* | *REST mode* |
+| *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *-* | *REST mode* | *REST mode* |
+| [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | [CORE](https://github.com/mobsikx/workout/blob/coronavirus/Core.md) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | [CORE](https://github.com/mobsikx/workout/blob/coronavirus/Core.md) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | *REST mode* | *REST mode* |
 | *-* | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | *-* | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | *-* | *REST mode* | *REST mode* |
 
 # Strength workout programs
