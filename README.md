@@ -2,14 +2,14 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **morning** | **morning** | **morning** | **morning** | **after lunch** | **morning** |  **morning** |
 | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | *REST mode* | *REST mode* |
-| Dynamic stretching | ??? | Dynamic stretching | ??? | Dynamic stretching | *REST mode* | *REST mode* |
-| 5 min. jumping rope | *-* | 5 min. jumping rope | *-* | 5 min. jumping rope | *REST mode* | *REST mode* |
+| Dynamic stretching | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | Dynamic stretching | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | Dynamic stretching | *REST mode* | *REST mode* |
+| 5 min. jumping rope | [CORE](https://github.com/mobsikx/workout/blob/coronavirus/Core.md) | 5 min. jumping rope | [CORE](https://github.com/mobsikx/workout/blob/coronavirus/Core.md) | 5 min. jumping rope | *REST mode* | *REST mode* |
 | [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/Strength-FullBody.md) | *-* | [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/Strength-FullBody.md) | *-* | [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/Strength-FullBody.md) | *REST mode* | *REST mode* |
-| Static stretching | *-* | Static stretching | *-* | Static stretching | *REST mode* | *REST mode* |
+| Static stretching | [Cardio Progressive Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-ProgressiveEndurance.md) | Static stretching | [Cardio Progressive Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-ProgressiveEndurance.md) | Static stretching | *REST mode* | *REST mode* |
 | [Cardio - Explosive](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md) | *-* | [Cardio - Explosive](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md) | *-* | [Cardio - Explosive](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md) | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
-| *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *-* | *REST mode* | *REST mode* |
-| *-* | [CORE](https://github.com/mobsikx/workout/blob/coronavirus/Core.md) | *-* | [CORE](https://github.com/mobsikx/workout/blob/coronavirus/Core.md) | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *REST mode* | *REST mode* |
+| *-* | BJJ @ home | *-* | BJJ @ home | *-* | *REST mode* | *REST mode* |
+| *-* | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | *-* | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *REST mode* | *REST mode* |
 | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | *-* | *REST mode* | *REST mode* |
 
 # Strength workout programs
@@ -22,6 +22,7 @@
 * [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md)
 * [Cardio - Explosive](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md)
 * [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md)
+* [Cardio Progressive Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-ProgressiveEndurance.md)
 * [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md)
 
 # Measurements
