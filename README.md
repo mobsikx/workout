@@ -10,7 +10,7 @@
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | *-* | BJJ @ home | *-* | BJJ @ home | *-* | *REST mode* | *REST mode* |
 | *-* | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | *-* | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *REST mode* | *REST mode* |
-| [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | *-* | *REST mode* | *REST mode* |
+| [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | *-* | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | *-* | *-* | *REST mode* | *REST mode* |
 
 # Strength workout programs
 * [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/Strength-FullBody.md)
