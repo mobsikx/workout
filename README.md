@@ -13,8 +13,8 @@
 | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | *-* | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | *-* | *-* | *REST mode* | *REST mode* |
 
 <hr />
-**Note**: Every 7th week replace any high intensity cardio with 2x CL.<br />
-**Week counter**: #1
+<b>Note</b>: Every 7th week replace any high intensity cardio with 2x CL.<br />
+<b>**Week counter</b>: #1
 <hr />
 
 # Strength workout programs
