@@ -14,7 +14,7 @@
 
 <hr />
 <b>Note</b>: Every 7th week replace any high intensity cardio with 2x CL.<br />
-<b>**Week counter</b>: #1
+<b>Week counter</b>: #1
 <hr />
 
 # Strength workout programs
