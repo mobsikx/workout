@@ -12,7 +12,7 @@
 | *-* | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | *-* | [Cardio - MMA](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-MMA.md) | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *REST mode* | *REST mode* |
 | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | *-* | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | *-* | *-* | *REST mode* | *REST mode* |
 
-**Note**: Every 7th week replace any high intensity cardio with 2x CL.
+**Note**: Every 7th week replace any high intensity cardio with 2x CL.\n<br/>
 **Week counter**: #1
 
 # Strength workout programs
